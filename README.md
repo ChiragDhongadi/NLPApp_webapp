@@ -5,6 +5,10 @@ A web application that provides Natural Language Processing (NLP) services via a
 
 ---
 
+## 🎨 Screenshots
+
+<img width="960" alt="App Screenshot" src="https://drive.google.com/uc?export=view&id=1Xx5bFK_1rxn7jA9d_8l_QY4DVT51R1sf" />
+
 ## Table of Contents
 
 - [About](#about)  
